@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShalomGreen
-- 👀 I fell in love with front-end development after attending a SheCodes conference, played with excel, basics of sql for a bit then stumbled on the cloud 🌥. 
-- 🌱 I’m currently learning html and CSS
+- 👀 I became intrigued with the tech space after attending a SheCodes conference so I am exploring and learning. This is my virtual journey 
+- 🌱 Learning the fundamentals to expand my knowledge.
 - 💞️ I’m looking to enhance my skills via collaboration so-o, if you have any exciting project or you need an accountability partner, hit me👆 
 - 📫 You can reach me at: shalombgreene@gmail.com
 - 😄 Pronouns: SHE/HER👩 
